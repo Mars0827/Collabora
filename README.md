@@ -29,6 +29,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
   
 ***
 [FLOW CHART](https://www.figma.com/design/h7Bbh2dS6MwSsTeyBIovbh/CollaboraFlowChart?node-id=0-1&node-type=canvas&t=NTRFlD6ouJnCrGlM-0)
+![image](https://github.com/user-attachments/assets/22d371da-dc32-40f0-8ae7-3864886d0709)
+
 ---
 [UI UX DESIGN](https://www.figma.com/design/FxblX5q5yIJ3DYJNUZ95eD/Collabora-(CSIT321)-UI%2FUX?node-id=0-1&node-type=canvas&t=ekV0Ga51OU2epzEU-0)
 ---
